@@ -2,16 +2,20 @@
     <summary>Navegação</summary>
     <ul>
         <li><a href="../README.md">README</a></li>
-        <li><a href="/Desenvolvimento/Tasklist.md">Tasklist</a></li>
+        <li><a href="/Desenvolvimento/Tasklist.md">Task List</a></li>
         <li><a href="/Desenvolvimento/Cursos.md">Cursos que realizei para a elaboração do site</a></li>
     </ul>
 </details>
 
-#  Task-List
+# Task List
 
 ## 1. Design do site:
-    1. Selecao de cores
-    2. Prototipo no figma
+- - [ ] Seleção da paleta de cores
+- - [ ] Protótipo no Figma
 
-## To-Do List
-- [ ] Prototipo no Figma
+## 2. Programação do site:
+- - [ ] Aprender JavaScript
+- - [ ] Aprender Bootstrap
+
+## 3. Upload do site:
+- - [ ] Pesquisar onde fazer o upload e o hosteamento do site
