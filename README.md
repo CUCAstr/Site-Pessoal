@@ -5,7 +5,7 @@
         <li><a href="docs/Tasklist.md">Task List</a></li>
         <li><a href="docs/Cursos.md">Cursos que realizei para a elaboração do site</a></li>
         <li><a href="docs/Estrutura.md">Estrutura do Projeto</a></li>
-        <li><a href="src/index.html">Home</a></li>
+        <li><a href="index.html">Home</a></li>
     </ul>
 </details>
 
