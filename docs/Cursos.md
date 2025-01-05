@@ -1,12 +1,3 @@
-<details>
-    <summary>Navegação</summary>
-    <ul>
-        <li><a href="../README.md">README</a></li>
-        <li><a href="/Desenvolvimento/Tasklist.md">Task List</a></li>
-        <li><a href="/Desenvolvimento/Cursos.md">Cursos que realizei para a elaboração do site</a></li>
-    </ul>
-</details>
-
 # Cursos realizados no desenvolvimento do site
 
 | Curso                                                                        | Status       |
