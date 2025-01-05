@@ -1,0 +1,14 @@
+{
+  "name": "site-pessoal",
+  "version": "1.0.0",
+  "description": "Site pessoal para portfólio e informações de contato.",
+  "main": "src/js/scripts.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "author": "Luca",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
