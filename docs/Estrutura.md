@@ -1,3 +1,8 @@
+---
+layout: default
+title: Estrutura
+---
+
 <details>
     <summary>Navegação</summary>
     <ul>

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Cursos
+---
+
 <details>
     <summary>Navegação</summary>
     <ul>
