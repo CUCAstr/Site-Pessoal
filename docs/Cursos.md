@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cursos
+title: Título da Página
 ---
 
 <details>

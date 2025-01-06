@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estrutura
+title: Título da Página
 ---
 
 <details>
