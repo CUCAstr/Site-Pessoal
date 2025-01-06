@@ -1,15 +1,16 @@
 ---
-layout: default
+layout: single
 title: Título da Página
+permalink: /cursos/
 ---
 
 <details>
     <summary>Navegação</summary>
     <ul>
-        <li><a href="../README.md">README</a></li>
-        <li><a href="Tasklist.md">Task List</a></li>
-        <li><a href="Cursos.md">Cursos que realizei para a elaboração do site</a></li>
-        <li><a href="Estrutura.md">Estrutura do Projeto</a></li>
+        <li><a href="/readme/">README</a></li>
+        <li><a href="/tasklist/">Task List</a></li>
+        <li><a href="/cursos/">Cursos</a></li>
+        <li><a href="/estrutura/">Estrutura</a></li>
         <li><a href="../index.html">Home</a></li>
     </ul>
 </details>

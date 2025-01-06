@@ -1,13 +1,16 @@
 title: Meu Site Pessoal
 description: Este é o meu site pessoal hospedado no GitHub Pages.
-baseurl: "/" # Use "/" if the site is hosted at the root of a domain
-url: "https://cucastr.github.io/Site-Pessoal/" # Substitua pelo seu URL de GitHub Pages
+baseurl: "" # Use "/" if the site is hosted at the root of a domain
+url: "https://CUCAstr.github.io/Site-Pessoal" # Substitua pelo seu URL de GitHub Pages
 theme: jekyll-theme-minimal
-
-# Outros parâmetros configuráveis
 markdown: kramdown
 highlighter: rouge
-
 # Configurações de rede social, se necessário
 social:
   github: CUCAstr
+
+
+include:
+  - "docs"
+  - "README.md"
+  - "_layouts"
