@@ -1,6 +1,6 @@
 ---
-layout: single
-title: Título da Página
+layout: default
+title: README
 permalink: /readme/
 ---
 

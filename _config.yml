@@ -11,6 +11,6 @@ social:
 
 
 include:
-  - "docs"
-  - "README.md"
-  - "_layouts"
+  - docs
+  - README.md
+  - _layouts
