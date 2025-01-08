@@ -1,20 +1,3 @@
----
-layout: default
-title: Task List
-permalink: /tasklist/
----
-
-<details>
-    <summary>Navegação</summary>
-    <ul>
-        <li><a href="/readme/">README</a></li>
-        <li><a href="/tasklist/">Task List</a></li>
-        <li><a href="/cursos/">Cursos</a></li>
-        <li><a href="/estrutura/">Estrutura</a></li>
-        <li><a href="../index.html">Home</a></li>
-    </ul>
-</details>
-
 # Task List - Desenvolvimento do Portfólio
 
 ## 1. Planejamento

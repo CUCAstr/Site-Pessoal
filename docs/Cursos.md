@@ -1,20 +1,3 @@
----
-layout: default
-title: Cursos
-permalink: /cursos/
----
-
-<details>
-    <summary>Navegação</summary>
-    <ul>
-        <li><a href="/readme/">README</a></li>
-        <li><a href="/tasklist/">Task List</a></li>
-        <li><a href="/cursos/">Cursos</a></li>
-        <li><a href="/estrutura/">Estrutura</a></li>
-        <li><a href="../index.html">Home</a></li>
-    </ul>
-</details>
-
 # Cursos realizados no desenvolvimento do site
 
 | Curso                                                                        | Status       |
