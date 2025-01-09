@@ -47,15 +47,15 @@
 
 - **1.2 Pesquisar referências visuais e elementos de design:**
   - **Favoritos:**
-    - **Brittany Chiang:** [brittanychiang.com](https://brittanychiang.com/).
-    - **Ben Adam:** [benadam.me](https://benadam.me/).
+	- **[brittanychiang.com](https://brittanychiang.com/):** Design otimizado, visualmente impressionante e com animações/transições perfeitas, servindo como referência ideal para o projeto.
+	- **[benadam.me](https://benadam.me/):** Excelente estrutura, otimização e recursos interativos como a timeline, destacando habilidades técnicas e criatividade.
   - **Outros notáveis:**
-    - **mattfarley.ca:** Combinação de conteúdo na landing page e boa responsividade.
-    - **gpt.caferati.me/career:** Efeitos do cursor e animações dos links.
-    - **ianlunn.co.uk/portfolio:** Estética e layout de textos e imagens.
-    - **pierre.io:** Landing page impressionante, mas com problemas de otimização.
-    - **sebkay.com/projects:** Estética e navegação eficiente, com ressalvas sobre o tamanho do cabeçalho.
+      - **[mattfarley.ca](https://mattfarley.ca):** Combinação de conteúdo na landing page e boa responsividade.
+	  - **[gpt.caferati.me/career](https://gpt.caferati.me/career):** Efeitos do cursor e animações dos links.
+	  - **[ianlunn.co.uk/portfolio](https://ianlunn.co.uk/portfolio):** Estética e layout de textos e imagens.
+	  - **[pierre.io](https://pierre.io):** Landing page impressionante, mas com problemas de otimização.
+	  - **[sebkay.com/projects](https://sebkay.com/projects):** Estética e navegação eficiente, com ressalvas sobre o tamanho do cabeçalho.
   - **Ferramentas e Referências Adicionais:**
-    - [CodePen](https://codepen.io/): Exemplos de códigos e inspiração para funcionalidades.
-    - [Coolors](https://coolors.co/): Geração de paletas de cores.
-    - [AOS (Animate on Scroll)](https://michalsnik.github.io/aos/): Biblioteca para animações ao rolar a página.
+    - **[CodePen](https://codepen.io/):** Exemplos de códigos e inspiração para funcionalidades.
+    - **[Coolors](https://coolors.co/):** Geração de paletas de cores.
+    - **[AOS (Animate on Scroll)](https://michalsnik.github.io/aos/):** Biblioteca para animações ao rolar a página.
