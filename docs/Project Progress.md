@@ -4,7 +4,7 @@
 
 ### 1. Planejamento
 1. [x] Definir os objetivos e funcionalidades principais do site.
-2. [ ] Pesquisar referências visuais e elementos de design.
+2. [x] Pesquisar referências visuais e elementos de design.
 3. [ ] Criar uma estrutura inicial do projeto no GitHub (pastas organizadas para `html`, `css`, `js`, etc.).
 
 ### 2. Design do Site
@@ -44,3 +44,18 @@
 	- Seção "Sobre Mim" com história pessoal, hobbies e interesses.
 	- Galeria de projetos com descrições e links.
 	- Página de currículo com informações profissionais e download do PDF.
+
+- **1.2 Pesquisar referências visuais e elementos de design:**
+  - **Favoritos:**
+    - **Brittany Chiang:** [brittanychiang.com](https://brittanychiang.com/).
+    - **Ben Adam:** [benadam.me](https://benadam.me/).
+  - **Outros notáveis:**
+    - **mattfarley.ca:** Combinação de conteúdo na landing page e boa responsividade.
+    - **gpt.caferati.me/career:** Efeitos do cursor e animações dos links.
+    - **ianlunn.co.uk/portfolio:** Estética e layout de textos e imagens.
+    - **pierre.io:** Landing page impressionante, mas com problemas de otimização.
+    - **sebkay.com/projects:** Estética e navegação eficiente, com ressalvas sobre o tamanho do cabeçalho.
+  - **Ferramentas e Referências Adicionais:**
+    - [CodePen](https://codepen.io/): Exemplos de códigos e inspiração para funcionalidades.
+    - [Coolors](https://coolors.co/): Geração de paletas de cores.
+    - [AOS (Animate on Scroll)](https://michalsnik.github.io/aos/): Biblioteca para animações ao rolar a página.
