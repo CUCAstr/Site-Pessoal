@@ -82,3 +82,17 @@ SITE-PESSOAL/
 ├── package.json
 └── README.md
 ```
+
+### 2. Design do Site
+
+#### **2.1 Escolher a paleta de cores:**
+  - **Paleta Principal:**
+    - Fundos, links e botões: `#0A192F`, `#64FFDA`, `#4ADEDE`.
+    - Gradientes para bordas e efeitos: `#817DEC`, `#F1C75D`, `#B268DD`, `#15BAFE`, `#3BC07D`, `#0EBEFE`.
+  - **Paletas Alternativas:**
+    - `#22577a`, `#38a3a5`, `#57cc99`, `#80ed99`, `#c7f9cc`.
+    - `#05668d`, `#028090`, `#00a896`, `#02c39a`, `#f0f3bd`.
+    - `#0b132b`, `#1c2541`, `#3a506b`, `#5bc0be`, `#6fffe9`.
+  - **Inspirações:**
+    - CodePen: Bordas neon coloridas.
+    - Brittany Chiang (v4 e v5): Fundo azul escuro, botões vibrantes e texto cinza suave para contraste equilibrado.
