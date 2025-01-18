@@ -10,5 +10,3 @@
 | Figma: conhecendo a ferramenta                                               | Planejado    |
 | Figma: criando e evoluindo componentes de uma interface                      | Planejado    |
 | Figma: prototipagem interativa e animações                                   | Planejado    |
-
-
